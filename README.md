@@ -1,2 +1,4 @@
 # jira
-jira
+jira issue
+https://solomiabukatka11.atlassian.net/browse/SOL-1?atlOrigin=eyJpIjoiYTU1ODY4NmYxNzM1NGE3OGI3ZWNhMzdhZmY0OTE0NDQiLCJwIjoiaiJ9
+https://solomiabukatka11.atlassian.net/browse/SOL-3?atlOrigin=eyJpIjoiZWYxNzgwMTMzY2NhNGQ1MWFiODQxNjQ0ZGY4YTlkNTciLCJwIjoiaiJ9
